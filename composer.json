@@ -1,8 +1,8 @@
 {
-    "name": "laravel-notification-channels/facebook-poster",
+    "name": "codica-studio/facebookposter",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codica-studio/facebook-poster",
+    "homepage": "https://github.com/codica-studio/facebookposter",
     "license": "MIT",
     "authors": [
         {
